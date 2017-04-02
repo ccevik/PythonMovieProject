@@ -20,7 +20,7 @@ There are 3 main files to run this program
 
 			open_movies_page
 			This function is to create overwrite html file and
-            output the file in the browser
+                        output the file in the browser
 
 3. entertainment_center.py This file needs to be
 			executed in order to see the whole project page.
